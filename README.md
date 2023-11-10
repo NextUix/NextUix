@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NextUix
+- 👋 Hi, I’m @Next ui
 
 
 <!---
